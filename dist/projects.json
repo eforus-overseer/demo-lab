@@ -1,0 +1,282 @@
+[
+  {
+    "repo": "photo-studio",
+    "slug": "photo-studio",
+    "title": "Photo Studio",
+    "category": "Play & create",
+    "mode": "Live app"
+  },
+  {
+    "repo": "iron-tide-submarine",
+    "slug": "iron-tide-submarine",
+    "title": "Iron Tide",
+    "category": "Play & create",
+    "mode": "Live app"
+  },
+  {
+    "repo": "propwash",
+    "slug": "propwash",
+    "title": "PROP//WASH",
+    "category": "Play & create",
+    "mode": "Live app"
+  },
+  {
+    "repo": "empathy-captcha",
+    "slug": "empathy-captcha",
+    "title": "Empathy CAPTCHA",
+    "category": "Play & create",
+    "mode": "Live app"
+  },
+  {
+    "repo": "LunarLander-DQN-vs-PPO",
+    "slug": "lunarlander-dqn-vs-ppo",
+    "title": "Learning to land",
+    "category": "Reinforcement learning",
+    "mode": "Recorded agents"
+  },
+  {
+    "repo": "rotorenv",
+    "slug": "rotorenv",
+    "title": "A drone learning to fly",
+    "category": "Reinforcement learning",
+    "mode": "Recorded agents"
+  },
+  {
+    "repo": "RL-MiniGrid-PPO-Agent",
+    "slug": "rl-minigrid-ppo-agent",
+    "title": "Finding the way through",
+    "category": "Reinforcement learning",
+    "mode": "Recorded agents"
+  },
+  {
+    "repo": "FlappyBird-RL-Agent",
+    "slug": "flappybird-rl-agent",
+    "title": "Flappy Bird, trained",
+    "category": "Reinforcement learning",
+    "mode": "Recorded agents"
+  },
+  {
+    "repo": "visual-vocabulary-skill",
+    "slug": "visual-vocabulary-skill",
+    "title": "The right chart for the story",
+    "category": "Data science",
+    "mode": "Interactive explainer"
+  },
+  {
+    "repo": "octobrowser-mcp",
+    "slug": "octobrowser-mcp",
+    "title": "A browser tool belt",
+    "category": "Security",
+    "mode": "Interactive explainer"
+  },
+  {
+    "repo": "bid-whisperer",
+    "slug": "bid-whisperer",
+    "title": "Inside the auction",
+    "category": "Data science",
+    "mode": "Research showcase"
+  },
+  {
+    "repo": "Language-Detection",
+    "slug": "language-detection",
+    "title": "Which language is this?",
+    "category": "Language & retrieval",
+    "mode": "Interactive explainer"
+  },
+  {
+    "repo": "poetry_generation",
+    "slug": "poetry_generation",
+    "title": "A small poetry machine",
+    "category": "Language & retrieval",
+    "mode": "Interactive explainer"
+  },
+  {
+    "repo": "RAG-QA-Wikipedia",
+    "slug": "rag-qa-wikipedia",
+    "title": "Find evidence before answering",
+    "category": "Language & retrieval",
+    "mode": "Interactive explainer"
+  },
+  {
+    "repo": "Text-Retrieval-ROBUST04-Ranking",
+    "slug": "text-retrieval-robust04-ranking",
+    "title": "What deserves the top result?",
+    "category": "Language & retrieval",
+    "mode": "Interactive explainer"
+  },
+  {
+    "repo": "llm-hallucination-sketches",
+    "slug": "llm-hallucination-sketches",
+    "title": "Tiny memory, streaming signals",
+    "category": "Language & retrieval",
+    "mode": "Interactive explainer"
+  },
+  {
+    "repo": "Literary-LLM-Knowledge-Data-Poisoning",
+    "slug": "literary-llm-knowledge-data-poisoning",
+    "title": "When training data changes the story",
+    "category": "Language & retrieval",
+    "mode": "Research showcase"
+  },
+  {
+    "repo": "streaming-attack-detection",
+    "slug": "streaming-attack-detection",
+    "title": "Detecting attacks in a stream",
+    "category": "Security",
+    "mode": "Interactive explainer"
+  },
+  {
+    "repo": "Credential-Stuffing-Detection-Framework",
+    "slug": "credential-stuffing-detection-framework",
+    "title": "Finding automated login patterns",
+    "category": "Security",
+    "mode": "Research showcase"
+  },
+  {
+    "repo": "Enron-DLP-Policy-Enforcement",
+    "slug": "enron-dlp-policy-enforcement",
+    "title": "A policy-aware email pipeline",
+    "category": "Security",
+    "mode": "Research showcase"
+  },
+  {
+    "repo": "Multimodal-Harmful-Content-Detection-Social-Media-Memes-",
+    "slug": "multimodal-harmful-content-detection-social-media-memes",
+    "title": "Images and words, together",
+    "category": "Language & retrieval",
+    "mode": "Research showcase"
+  },
+  {
+    "repo": "Harmfull-Content-Detection-Classification-BLIP2-OCR-CLIP",
+    "slug": "harmfull-content-detection-classification-blip2-ocr-clip",
+    "title": "Two routes to multimodal understanding",
+    "category": "Language & retrieval",
+    "mode": "Research showcase"
+  },
+  {
+    "repo": "Sentiment-Analysis-Restaurant-Reviews",
+    "slug": "sentiment-analysis-restaurant-reviews",
+    "title": "What did the diner mean?",
+    "category": "Language & retrieval",
+    "mode": "Research showcase"
+  },
+  {
+    "repo": "entrepreneurs-during-crisis",
+    "slug": "entrepreneurs-during-crisis",
+    "title": "The language of a crisis",
+    "category": "Language & retrieval",
+    "mode": "Research showcase"
+  },
+  {
+    "repo": "Mobile-Movement-Geo-Analytics",
+    "slug": "mobile-movement-geo-analytics",
+    "title": "When is a mobile user active?",
+    "category": "Data science",
+    "mode": "Research showcase"
+  },
+  {
+    "repo": "Support_Vector_Machines_SVM",
+    "slug": "support_vector_machines_svm",
+    "title": "Drawing the separating margin",
+    "category": "Data science",
+    "mode": "Interactive explainer"
+  },
+  {
+    "repo": "Ecommerce-Customers-Data",
+    "slug": "ecommerce-customers-data",
+    "title": "From browsing time to spending",
+    "category": "Data science",
+    "mode": "Interactive explainer"
+  },
+  {
+    "repo": "Covid19-Clustering",
+    "slug": "covid19-clustering",
+    "title": "Grouping countries by response",
+    "category": "Data science",
+    "mode": "Interactive explainer"
+  },
+  {
+    "repo": "Portfolio-with-3-assets",
+    "slug": "portfolio-with-3-assets",
+    "title": "Three assets, many portfolios",
+    "category": "Data science",
+    "mode": "Interactive explainer"
+  },
+  {
+    "repo": "HR-analytics-ML",
+    "slug": "hr-analytics-ml",
+    "title": "Learning from promotion data",
+    "category": "Data science",
+    "mode": "Research showcase"
+  },
+  {
+    "repo": "Heart_Diseases",
+    "slug": "heart_diseases",
+    "title": "Evaluating a health classifier",
+    "category": "Data science",
+    "mode": "Interactive explainer"
+  },
+  {
+    "repo": "Applied-Econometrics",
+    "slug": "applied-econometrics",
+    "title": "Reading the shape of an economy",
+    "category": "Data science",
+    "mode": "Interactive explainer"
+  },
+  {
+    "repo": "Trenario--DATA-Project-in-R",
+    "slug": "trenario--data-project-in-r",
+    "title": "An R analysis for Trenario",
+    "category": "Data science",
+    "mode": "Research showcase"
+  },
+  {
+    "repo": "NLP-Gender-Analysis-",
+    "slug": "nlp-gender-analysis",
+    "title": "Names in the monarchy",
+    "category": "Language & retrieval",
+    "mode": "Research showcase"
+  },
+  {
+    "repo": "Text-Word-Counter",
+    "slug": "text-word-counter",
+    "title": "A word, counted",
+    "category": "Language & retrieval",
+    "mode": "Interactive explainer"
+  },
+  {
+    "repo": "Photo-Editor-GUI",
+    "slug": "photo-editor-gui",
+    "title": "The original photo editor",
+    "category": "Archive",
+    "mode": "Archive"
+  },
+  {
+    "repo": "eforus-overseer",
+    "slug": "eforus-overseer",
+    "title": "The profile behind the projects",
+    "category": "Archive",
+    "mode": "Archive"
+  },
+  {
+    "repo": "fuzzer",
+    "slug": "fuzzer",
+    "title": "Fuzzer: an early web sketch",
+    "category": "Archive",
+    "mode": "Archive"
+  },
+  {
+    "repo": "fuzzer.github.io",
+    "slug": "fuzzer.github.io",
+    "title": "A one-file web draft",
+    "category": "Archive",
+    "mode": "Archive"
+  },
+  {
+    "repo": "clustering_user_queries",
+    "slug": "clustering_user_queries",
+    "title": "Query clustering: a reserved idea",
+    "category": "Archive",
+    "mode": "Archive"
+  }
+]

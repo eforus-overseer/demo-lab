@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="415.225315pt" height="329.76pt" viewBox="0 0 415.225315 329.76" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-06T16:34:04.516752</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 329.76 
+L 415.225315 329.76 
+L 415.225315 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 261.186134 246.912022 
+C 279.999441 242.081588 296.416355 230.543582 307.334 214.478758 
+C 318.251645 198.413933 322.935942 178.902447 320.501527 159.632075 
+C 318.067111 140.361703 308.677668 122.628143 294.10786 109.783131 
+C 279.538052 96.938118 260.767528 89.845333 241.343997 89.845333 
+L 241.344 169.632 
+z
+" style="fill: #2a78d6; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 162.186473 179.631917 
+C 163.605456 190.864315 167.399124 201.667099 173.31468 211.320413 
+C 179.230235 220.973728 187.133313 229.258281 196.497247 235.622005 
+C 205.861183 241.985729 216.473265 246.284066 227.626351 248.23059 
+C 238.779436 250.177118 250.220152 249.727604 261.186134 246.912022 
+L 241.344 169.632 
+z
+" style="fill: #eb6834; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 194.446589 105.083221 
+C 182.887539 113.481357 173.793779 124.832228 168.11942 137.944893 
+C 162.445062 151.057558 160.395745 165.456812 162.186473 179.631917 
+L 241.344 169.632 
+z
+" style="fill: #1baf7a; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 241.344039 89.845333 
+C 232.971653 89.845333 224.651203 91.163159 216.68859 93.750364 
+C 208.725976 96.337569 201.219994 100.162058 194.446589 105.083221 
+L 241.344 169.632 
+z
+" style="fill: #eda100; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 340.666348 158.844053 
+Q 329.792363 159.338067 318.918378 159.832082 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(342.665627 155.047102)">Grid electricity</text>
+    <text style="font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(342.665627 164.622258)">46%</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 185.943436 240.007366 
+Q 191.6688 237.154781 197.394163 234.302196 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(147.27357 247.723858)">Fleet fuel</text>
+    <text style="font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(164.933257 257.209014)">27%</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 149.620958 134.535744 
+Q 159.602434 136.557189 169.58391 138.578634 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(116.448412 128.503651)">Heating</text>
+    <text style="font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(128.609662 138.097089)">17%</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 201.848298 87.899547 
+Q 209.514997 91.583771 217.181696 95.267994 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(148.783356 74.640467)">Business travel</text>
+    <text style="font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(190.7782 84.125623)">10%</text>
+   </g>
+  </g>
+  <g id="text_5">
+   <text style="font-weight: 700; font-size: 13px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0b0b0b" x="14.4" y="23.786406" transform="rotate(-0 14.4 23.786406)">Nearly half of emissions come from purchased electricity</text>
+  </g>
+  <g id="text_6">
+   <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="14.4" y="41.935906" transform="rotate(-0 14.4 41.935906)">Share of operational emissions by source, %</text>
+  </g>
+  <g id="text_7">
+   <text style="font-size: 8px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #898781" x="14.4" y="313.78375" transform="rotate(-0 14.4 313.78375)">Source: Illustrative data</text>
+  </g>
+ </g>
+</svg>
