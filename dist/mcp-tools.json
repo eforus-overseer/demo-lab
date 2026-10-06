@@ -1,0 +1,224 @@
+[
+  {
+    "name": "octo_health_check",
+    "signature": "",
+    "description": "Check that the Octo Browser API is reachable. Call this first to verify the app is running.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "octo_list_profiles",
+    "signature": "",
+    "description": "List the profiles currently running on this machine, with UUID, title and ws_endpoint.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "octo_start_profile",
+    "signature": "uuid: Annotated[str, Field(description=\"Octo Browser profile UUID\"",
+    "description": "Start a profile by UUID and return the ws_endpoint for the CDP connection.\n\n    If the profile is already running, its current data is returned instead.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "octo_stop_profile",
+    "signature": "uuid: Annotated[str, Field(description=\"UUID of the profile to stop\"",
+    "description": "Stop a running Octo Browser profile by UUID.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "octo_start_one_time_profile",
+    "signature": "os: Annotated[ # noqa: A002 - the schema field is named \"os\" Literal[\"win\", \"mac\", \"lin\", \"android\"], Field(description=\"Fingerprint OS\"",
+    "description": "Create and start a one-time (temporary) profile.\n\n    It is removed once stopped and starts faster than a regular profile, which suits scraping.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "octo_find_profile_by_name",
+    "signature": "name: Annotated[str, Field(description=\"Profile title to look for (e.g. '5249_US'",
+    "description": "Find a profile by title. The API matches from the beginning of the title.\n\n    Requires OCTO_API_TOKEN.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "octo_start_profile_by_name",
+    "signature": "name: Annotated[ str, Field(description=\"Title of the profile to find and start (e.g. '5249_US'",
+    "description": "Find a profile by title and start it (find + start in one call). Requires OCTO_API_TOKEN.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "octo_search_profiles",
+    "signature": "search: Annotated[ str | None, Field(description=\"Title prefix (matches from the start of the title",
+    "description": "Search profiles by title prefix or tags. Several tags mean AND. Requires OCTO_API_TOKEN.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "octo_get_profile",
+    "signature": "uuid: Annotated[str, Field(description=\"Profile UUID\"",
+    "description": "Get full profile data by UUID: fingerprint, proxy, extensions, description, tags.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "octo_get_extensions",
+    "signature": "",
+    "description": "List the team's browser extensions with name, version and UUID.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "octo_delete_extensions",
+    "signature": "uuids: Annotated[ list[str], Field(description=\"Extension UUIDs to delete (e.g. 'abc123@2.0.12'",
+    "description": "Delete team extensions by UUID.\n\n    Extensions in use by a running profile come back once that profile stops.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "octo_get_tags",
+    "signature": "",
+    "description": "List all profile tags with name, color and UUID.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "octo_get_proxies",
+    "signature": "",
+    "description": "List all saved proxies with type, host, port and UUID.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_connect",
+    "signature": "ws_endpoint: Annotated[ str, Field(description=\"CDP WebSocket endpoint (from octo_start_profile",
+    "description": "Connect to a running Octo Browser profile over CDP. Call after octo_start_profile.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_disconnect",
+    "signature": "",
+    "description": "Disconnect from the browser (does not stop the Octo profile).",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_navigate",
+    "signature": "url: Annotated[str, Field(description=\"Target URL\"",
+    "description": "Navigate to a URL.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_get_url",
+    "signature": "",
+    "description": "Get the current page URL.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_go_back",
+    "signature": "",
+    "description": "Go back in browser history.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_go_forward",
+    "signature": "",
+    "description": "Go forward in browser history.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_reload",
+    "signature": "",
+    "description": "Reload the current page.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_click",
+    "signature": "selector: OptionalSelector = None, x: Annotated[float | None, Field(description=\"X coordinate\"",
+    "description": "Click an element by CSS selector, or click at (x, y) coordinates.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_type",
+    "signature": "text: Annotated[str, Field(description=\"Text to type\"",
+    "description": "Type text.\n\n    With a selector the value is filled instantly; without one the text is typed\n    key by key into the focused element.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_press_key",
+    "signature": "key: Annotated[str, Field(description=\"Key name: 'Enter', 'Tab', 'Escape', 'Backspace', ...\"",
+    "description": "Press a keyboard key (Enter, Tab, Escape, ArrowDown, ...).",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_scroll",
+    "signature": "direction: Annotated[ Literal[\"up\", \"down\", \"left\", \"right\"], Field(description=\"Scroll direction\"",
+    "description": "Scroll the page, or a specific element when a selector is given.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_hover",
+    "signature": "selector: Selector",
+    "description": "Hover over an element (useful for dropdowns and tooltips).",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_select",
+    "signature": "selector: Annotated[str, Field(description=\"CSS selector of the select element\"",
+    "description": "Select an option in a <select> dropdown.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_screenshot",
+    "signature": "selector: Annotated[ str | None, Field(description=\"CSS selector of the element (optional, else the page",
+    "description": "Take a screenshot of the page or of a single element. Returns a PNG.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_get_text",
+    "signature": "selector: Selector",
+    "description": "Get the text content of an element.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_get_html",
+    "signature": "selector: OptionalSelector = None, outer: Annotated[bool, Field(description=\"Include the element's own tag (outerHTML",
+    "description": "Get the HTML of the page or of an element.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_get_attribute",
+    "signature": "selector: Selector, attribute: Annotated[str, Field(description=\"Attribute name\"",
+    "description": "Get an attribute value from an element.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_query_selector_all",
+    "signature": "selector: Annotated[str, Field(description=\"CSS selector\"",
+    "description": "Find all elements matching a selector and return their metadata.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_wait_for_selector",
+    "signature": "selector: Selector, timeout: Annotated[int, Field(description=\"Timeout in milliseconds\", ge=0",
+    "description": "Wait for an element to reach a given state.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_evaluate",
+    "signature": "script: Annotated[str, Field(description=\"JavaScript code to execute\"",
+    "description": "Run JavaScript on the page and return the result.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_list_tabs",
+    "signature": "",
+    "description": "List the open tabs with title, URL and active flag.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_switch_tab",
+    "signature": "index: Annotated[int, Field(description=\"Tab index (zero-based",
+    "description": "Switch to a tab by index.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_new_tab",
+    "signature": "url: Annotated[str | None, Field(description=\"URL to open (optional",
+    "description": "Open a new tab, optionally navigating to a URL.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  },
+  {
+    "name": "browser_close_tab",
+    "signature": "",
+    "description": "Close the current tab.",
+    "source": "https://github.com/eforus-overseer/octobrowser-mcp/blob/main/src/octobrowser_mcp/relay.py"
+  }
+]

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="457.678984pt" height="343.44pt" viewBox="0 0 457.678984 343.44" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-06T16:34:07.087902</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 343.44 
+L 457.678984 343.44 
+L 457.678984 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 86.158984 289.296 
+L 443.278984 289.296 
+L 443.278984 64.08 
+L 86.158984 64.08 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="ytick_1">
+     <g id="text_1">
+      <text style="font-weight: 700; font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #0b0b0b" x="82.658984" y="80.223455" transform="rotate(-0 82.658984 80.223455)">Ashford Bay</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="text_2">
+      <text style="font-weight: 700; font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #0b0b0b" x="82.658984" y="98.348184" transform="rotate(-0 82.658984 98.348184)">Norwick</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="text_3">
+      <text style="font-weight: 700; font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #0b0b0b" x="82.658984" y="116.510765" transform="rotate(-0 82.658984 116.510765)">Pellmont</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="text_4">
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #52514e" x="82.658984" y="134.753502" transform="rotate(-0 82.658984 134.753502)">Caldera Heights</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="text_5">
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #52514e" x="82.658984" y="152.916082" transform="rotate(-0 82.658984 152.916082)">Vireo City</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="text_6">
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #52514e" x="82.658984" y="170.998507" transform="rotate(-0 82.658984 170.998507)">Thornhaven</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="text_7">
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #52514e" x="82.658984" y="189.161087" transform="rotate(-0 82.658984 189.161087)">Marrowgate</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="text_8">
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #52514e" x="82.658984" y="207.323668" transform="rotate(-0 82.658984 207.323668)">Solenne</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="text_9">
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #52514e" x="82.658984" y="225.486248" transform="rotate(-0 82.658984 225.486248)">Kestrel Falls</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="text_10">
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #52514e" x="82.658984" y="243.648829" transform="rotate(-0 82.658984 243.648829)">Brightwater</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="text_11">
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #52514e" x="82.658984" y="261.81141" transform="rotate(-0 82.658984 261.81141)">Ombra</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="text_12">
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #52514e" x="82.658984" y="279.97399" transform="rotate(-0 82.658984 279.97399)">Lindmere</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 86.158984 82.969084 
+L 399.422142 82.969084 
+L 399.422142 70.618529 
+L 86.158984 70.618529 
+z
+" clip-path="url(#pf81cc8c696)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 86.158984 101.131665 
+L 392.741174 101.131665 
+L 392.741174 88.78111 
+L 86.158984 88.78111 
+z
+" clip-path="url(#pf81cc8c696)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 86.158984 119.294245 
+L 378.636909 119.294245 
+L 378.636909 106.94369 
+L 86.158984 106.94369 
+z
+" clip-path="url(#pf81cc8c696)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 86.158984 137.456826 
+L 371.955941 137.456826 
+L 371.955941 125.106271 
+L 86.158984 125.106271 
+z
+" clip-path="url(#pf81cc8c696)" style="fill: #c3c2b7"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 86.158984 155.619406 
+L 366.017303 155.619406 
+L 366.017303 143.268852 
+L 86.158984 143.268852 
+z
+" clip-path="url(#pf81cc8c696)" style="fill: #c3c2b7"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 86.158984 173.781987 
+L 324.818002 173.781987 
+L 324.818002 161.431432 
+L 86.158984 161.431432 
+z
+" clip-path="url(#pf81cc8c696)" style="fill: #c3c2b7"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 86.158984 191.944568 
+L 281.391711 191.944568 
+L 281.391711 179.594013 
+L 86.158984 179.594013 
+z
+" clip-path="url(#pf81cc8c696)" style="fill: #c3c2b7"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 86.158984 210.107148 
+L 236.109595 210.107148 
+L 236.109595 197.756594 
+L 86.158984 197.756594 
+z
+" clip-path="url(#pf81cc8c696)" style="fill: #c3c2b7"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 86.158984 228.269729 
+L 235.367266 228.269729 
+L 235.367266 215.919174 
+L 86.158984 215.919174 
+z
+" clip-path="url(#pf81cc8c696)" style="fill: #c3c2b7"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 86.158984 246.43231 
+L 229.428628 246.43231 
+L 229.428628 234.081755 
+L 86.158984 234.081755 
+z
+" clip-path="url(#pf81cc8c696)" style="fill: #c3c2b7"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 86.158984 264.59489 
+L 214.953197 264.59489 
+L 214.953197 252.244335 
+L 86.158984 252.244335 
+z
+" clip-path="url(#pf81cc8c696)" style="fill: #c3c2b7"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 86.158984 282.757471 
+L 154.453322 282.757471 
+L 154.453322 270.406916 
+L 86.158984 270.406916 
+z
+" clip-path="url(#pf81cc8c696)" style="fill: #c3c2b7"/>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0b0b0b" x="403.876121" y="79.120447" transform="rotate(-0 403.876121 79.120447)">84.4</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0b0b0b" x="397.195153" y="97.283028" transform="rotate(-0 397.195153 97.283028)">82.6</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0b0b0b" x="383.090888" y="115.445608" transform="rotate(-0 383.090888 115.445608)">78.8</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="376.40992" y="133.608189" transform="rotate(-0 376.40992 133.608189)">77.0</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="370.471282" y="151.77077" transform="rotate(-0 370.471282 151.77077)">75.4</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="329.27198" y="169.93335" transform="rotate(-0 329.27198 169.93335)">64.3</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="285.845689" y="188.095931" transform="rotate(-0 285.845689 188.095931)">52.6</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="240.563574" y="206.258512" transform="rotate(-0 240.563574 206.258512)">40.4</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="239.821244" y="224.421092" transform="rotate(-0 239.821244 224.421092)">40.2</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="233.882606" y="242.583673" transform="rotate(-0 233.882606 242.583673)">38.6</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="219.407176" y="260.746254" transform="rotate(-0 219.407176 260.746254)">34.7</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="158.907301" y="278.908834" transform="rotate(-0 158.907301 278.908834)">18.4</text>
+   </g>
+  </g>
+  <g id="text_25">
+   <text style="font-weight: 700; font-size: 13px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0b0b0b" x="37.774984" y="23.786406" transform="rotate(-0 37.774984 23.786406)">Three cities pull clear of the pack</text>
+  </g>
+  <g id="text_26">
+   <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="37.774984" y="42.711594" transform="rotate(-0 37.774984 42.711594)">Visitor-satisfaction index, 12 fictional cities, 0-100 scale</text>
+  </g>
+  <g id="text_27">
+   <text style="font-size: 8px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #898781" x="37.774984" y="327.46375" transform="rotate(-0 37.774984 327.46375)">Source: Illustrative data</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf81cc8c696">
+   <rect x="86.158984" y="64.08" width="357.12" height="225.216"/>
+  </clipPath>
+ </defs>
+</svg>

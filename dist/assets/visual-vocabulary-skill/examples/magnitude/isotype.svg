@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="434.304pt" height="275.04pt" viewBox="0 0 434.304 275.04" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-06T16:34:01.996826</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 275.04 
+L 434.304 275.04 
+L 434.304 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m6aef5c909f" d="M -5.477226 5.477226 
+L 5.477226 5.477226 
+L 5.477226 -5.477226 
+L -5.477226 -5.477226 
+z
+"/>
+    </defs>
+    <g>
+     <use xlink:href="#m6aef5c909f" x="178.848" y="193.1904" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#p14fe9b9a11)">
+     <use xlink:href="#m6aef5c909f" x="178.848" y="96.768" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="196.704" y="96.768" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="214.56" y="96.768" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="232.416" y="96.768" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="250.272" y="96.768" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="268.128" y="96.768" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="285.984" y="96.768" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="303.84" y="96.768" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #0b0b0b" x="162.7776" y="99.304055" transform="rotate(-0 162.7776 99.304055)">Coastal Express</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="314.5536" y="99.223898" transform="rotate(-0 314.5536 99.223898)">8</text>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#p14fe9b9a11)">
+     <use xlink:href="#m6aef5c909f" x="178.848" y="114.624" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="196.704" y="114.624" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="214.56" y="114.624" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="232.416" y="114.624" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="250.272" y="114.624" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="268.128" y="114.624" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="285.984" y="114.624" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #0b0b0b" x="162.7776" y="117.032398" transform="rotate(-0 162.7776 117.032398)">Valley Loop</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="296.6976" y="117.079898" transform="rotate(-0 296.6976 117.079898)">7</text>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#p14fe9b9a11)">
+     <use xlink:href="#m6aef5c909f" x="178.848" y="132.48" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="196.704" y="132.48" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="214.56" y="132.48" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="232.416" y="132.48" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="250.272" y="132.48" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="268.128" y="132.48" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="285.984" y="132.48" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="303.84" y="132.48" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="321.696" y="132.48" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="339.552" y="132.48" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="357.408" y="132.48" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="375.264" y="132.48" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #0b0b0b" x="162.7776" y="134.935898" transform="rotate(-0 162.7776 134.935898)">Northern Arc</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="385.9776" y="134.935898" transform="rotate(-0 385.9776 134.935898)">12</text>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#p14fe9b9a11)">
+     <use xlink:href="#m6aef5c909f" x="178.848" y="150.336" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="196.704" y="150.336" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="214.56" y="150.336" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="232.416" y="150.336" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="250.272" y="150.336" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="268.128" y="150.336" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="285.984" y="150.336" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="303.84" y="150.336" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="321.696" y="150.336" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="339.552" y="150.336" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="357.408" y="150.336" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="375.264" y="150.336" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #0b0b0b" x="162.7776" y="152.791898" transform="rotate(-0 162.7776 152.791898)">Harbour Shuttle</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="385.9776" y="152.791898" transform="rotate(-0 385.9776 152.791898)">12</text>
+   </g>
+   <g id="PathCollection_6">
+    <g clip-path="url(#p14fe9b9a11)">
+     <use xlink:href="#m6aef5c909f" x="178.848" y="168.192" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="196.704" y="168.192" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="214.56" y="168.192" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="232.416" y="168.192" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="250.272" y="168.192" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="268.128" y="168.192" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="285.984" y="168.192" style="fill: #2a78d6"/>
+     <use xlink:href="#m6aef5c909f" x="303.84" y="168.192" style="fill: #2a78d6"/>
+    </g>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #0b0b0b" x="162.7776" y="170.59075" transform="rotate(-0 162.7776 170.59075)">Ridge Runner</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="314.5536" y="170.647898" transform="rotate(-0 314.5536 170.647898)">8</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #898781" x="189.5616" y="195.387783" transform="rotate(-0 189.5616 195.387783)">= 1 depot</text>
+   </g>
+  </g>
+  <g id="text_12">
+   <text style="font-weight: 700; font-size: 13px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0b0b0b" x="14.4" y="23.682812" transform="rotate(-0 14.4 23.682812)">Northern Arc runs the most depots</text>
+  </g>
+  <g id="text_13">
+   <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #52514e" x="14.4" y="38.107297" transform="rotate(-0 14.4 38.107297)">Number of depots operated per route</text>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 8px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #898781" x="14.4" y="259.06375" transform="rotate(-0 14.4 259.06375)">Source: Illustrative data</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p14fe9b9a11">
+   <rect x="62.784" y="82.4832" width="357.12" height="117.8496"/>
+  </clipPath>
+ </defs>
+</svg>
