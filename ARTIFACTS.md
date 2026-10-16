@@ -40,7 +40,7 @@ The Visual Vocabulary relationship taxonomy credits the Financial Times Visual J
 | Reading the shape of an economy | [Applied-Econometrics](https://github.com/eforus-overseer/Applied-Econometrics) | 3 linked visual artifacts |
 | An R analysis for Trenario | [Trenario--DATA-Project-in-R](https://github.com/eforus-overseer/Trenario--DATA-Project-in-R) | 3 linked visual artifacts |
 | Names in the monarchy | [NLP-Gender-Analysis-](https://github.com/eforus-overseer/NLP-Gender-Analysis-) | 3 linked visual artifacts |
-| A word, counted | [Text-Word-Counter](https://github.com/eforus-overseer/Text-Word-Counter) | 0 linked visual artifacts |
+| Context Bloom · the original counter | [context-bloom](https://github.com/eforus-overseer/context-bloom) | 0 linked visual artifacts |
 | The original photo editor | [Photo-Editor-GUI](https://github.com/eforus-overseer/Photo-Editor-GUI) | 2 linked visual artifacts |
 | The profile behind the projects | [eforus-overseer](https://github.com/eforus-overseer/eforus-overseer) | 1 linked visual artifacts |
 | Fuzzer: an early web sketch | [fuzzer](https://github.com/eforus-overseer/fuzzer) | 0 linked visual artifacts |
