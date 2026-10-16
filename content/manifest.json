@@ -2386,11 +2386,11 @@
     ]
   },
   {
-    "repo": "Text-Word-Counter",
-    "title": "A word, counted",
+    "repo": "context-bloom",
+    "title": "Context Bloom \u00b7 the original counter",
     "category": "Language & retrieval",
     "mode": "Interactive explainer",
-    "summary": "A small Python utility counts words per line and occurrences of Dorian in an input text file.",
+    "summary": "Context Bloom is now an agent compaction skill. This explainer preserves the original ebook word counter; explore the new skill through its repository.",
     "steps": [
       [
         "Read the text",
@@ -2407,7 +2407,7 @@
     ],
     "limitation": "The browser port retains the source's prefix-style matching rather than claiming whole-word linguistic matching. Text stays on your device.",
     "widget": "counter",
-    "url": "https://github.com/eforus-overseer/Text-Word-Counter",
+    "url": "https://github.com/eforus-overseer/context-bloom",
     "branch": "main",
     "language": "Python",
     "slug": "text-word-counter",
@@ -2416,8 +2416,12 @@
     "reports": [],
     "files": [
       {
-        "path": "TextCounter.py",
-        "url": "https://github.com/eforus-overseer/Text-Word-Counter/blob/main/TextCounter.py"
+        "path": "legacy/TextCounter.py",
+        "url": "https://github.com/eforus-overseer/context-bloom/blob/main/legacy/TextCounter.py"
+      },
+      {
+        "path": "Context Bloom interactive report",
+        "url": "https://eforus-overseer.github.io/context-bloom/"
       }
     ]
   },

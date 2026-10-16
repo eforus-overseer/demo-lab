@@ -238,9 +238,9 @@
     "mode": "Research showcase"
   },
   {
-    "repo": "Text-Word-Counter",
+    "repo": "context-bloom",
     "slug": "text-word-counter",
-    "title": "A word, counted",
+    "title": "Context Bloom \u00b7 the original counter",
     "category": "Language & retrieval",
     "mode": "Interactive explainer"
   },
