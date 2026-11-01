@@ -55,3 +55,11 @@ Pushing to `main` validates and publishes the static artifact using GitHub Pages
 Projects are by eforus-overseer and the collaborators named in their original repositories. Every figure links to its source. The gallery preserves original chart content and recordings rather than assigning new benchmark claims to browser examples.
 
 See [ARTIFACTS.md](ARTIFACTS.md) for repository-level provenance and licensing scope. The generated cheerful puppy in Photo Studio is identified as AI-generated in that source project.
+
+
+<!-- codex-pixel-art -->
+## Pixel art
+
+![Pixel art for demo-lab](assets/pixel-art.svg)
+
+A small visual signature for this repository.
