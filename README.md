@@ -58,8 +58,8 @@ See [ARTIFACTS.md](ARTIFACTS.md) for repository-level provenance and licensing s
 
 
 <!-- codex-pixel-art -->
-## Pixel art
+## Project visual
 
-![Pixel art for demo-lab](assets/pixel-art.svg)
+![Pixel-art cover for demo-lab](assets/project-cover.png)
 
-A small visual signature for this repository.
+<sub>Pixel-art adaptation of [593419main pia14834-full full Mars Science Laboratory Guided Entry at Mars](https://commons.wikimedia.org/wiki/File:593419main_pia14834-full_full_Mars_Science_Laboratory_Guided_Entry_at_Mars.jpg) by NASA/JPL-Caltech, licensed Public domain. Source: Wikimedia Commons.</sub>
